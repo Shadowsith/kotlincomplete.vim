@@ -1,0 +1,2 @@
+setlocal completefunc=kotlincomplete#CompleteKT
+setlocal omnifunc=kotlincomplete#CompleteKT
